@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I’m Sushant 👋
 
-<!--
-**sushant-git/sushant-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer | Golang | Event‑Driven Systems | Payments & Billing**
 
-Here are some ideas to get you started:
+I build **reliable, scalable backend services**—with a strong focus on **event-driven architecture** and **payment/billing domain systems** (correctness, resilience, and observability).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+- **Golang backend services** (high performance, clean APIs, concurrency)
+- **Event-driven architecture** (async workflows, idempotency, retries, DLQs)
+- **Payments & billing systems** (webhooks, reconciliation, refunds, invoicing, auditability)
+- **Production readiness** (metrics/logs/traces, alerting, incident-friendly design)
+
+## Tech
+**Languages:** Go, SQL  
+**Cloud (AWS):** EC2, S3, CloudWatch  
+**Containers/Orchestration:** Docker, Kubernetes  
+**Data:** PostgreSQL/MySQL, MongoDB, Redis  
+**Streaming/Messaging:** Kafka  
+**Observability:** New Relic  
+**CI/CD:** GitHub Actions (CI/CD)
+
+## GitHub stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushant-git)](https://github.com/anuraghazra/github-readme-stats)
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/sushant-s-bb784381/
+- Email: sushantiitr16@gmail.com
