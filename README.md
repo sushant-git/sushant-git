@@ -20,7 +20,7 @@ I build **reliable, scalable backend services**—with a strong focus on **event
 **CI/CD:** GitHub Actions (CI/CD)
 
 ## GitHub stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushant-git)](https://github.com/anuraghazra/github-readme-stats)
+[![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushant-git)]
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/sushant-s-bb784381/
