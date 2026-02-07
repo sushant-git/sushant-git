@@ -1,27 +1,12 @@
-# Hi, I’m Sushant 👋
+# 💫 About Me:
+Hi, I’m Sushant 👋<br>Backend Developer | Golang | Event‑Driven Systems | Payments & Billing<br><br>I build reliable, scalable backend services—with a strong focus on event-driven architecture and payment/billing domain systems (correctness, resilience, and observability).<br><br>What I work on<br>Golang backend services (high performance, clean APIs, concurrency)<br>Event-driven architecture (async workflows, idempotency, retries, DLQs)<br>Payments & billing systems (webhooks, reconciliation, refunds, invoicing, auditability)<br>Production readiness (metrics/logs/traces, alerting, incident-friendly design)<br>Tech<br>Languages: Go, SQL<br>Cloud (AWS): EC2, S3, CloudWatch<br>Containers/Orchestration: Docker, Kubernetes<br>Data: PostgreSQL/MySQL, MongoDB, Redis<br>Streaming/Messaging: Kafka<br>Observability: New Relic<br>CI/CD: GitHub Actions (CI/CD)<br><br>
 
-**Backend Developer | Golang | Event‑Driven Systems | Payments & Billing**
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sushant-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sushant-git&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sushant-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I build **reliable, scalable backend services**—with a strong focus on **event-driven architecture** and **payment/billing domain systems** (correctness, resilience, and observability).
+---
+[![](https://visitcount.itsvg.in/api?id=sushant-git&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## What I work on
-- **Golang backend services** (high performance, clean APIs, concurrency)
-- **Event-driven architecture** (async workflows, idempotency, retries, DLQs)
-- **Payments & billing systems** (webhooks, reconciliation, refunds, invoicing, auditability)
-- **Production readiness** (metrics/logs/traces, alerting, incident-friendly design)
-
-## Tech
-**Languages:** Go, SQL  
-**Cloud (AWS):** EC2, S3, CloudWatch  
-**Containers/Orchestration:** Docker, Kubernetes  
-**Data:** PostgreSQL/MySQL, MongoDB, Redis  
-**Streaming/Messaging:** Kafka  
-**Observability:** New Relic  
-**CI/CD:** GitHub Actions (CI/CD)
-
-## GitHub stats
-[![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushant-git)]
-
-## Connect
-- LinkedIn: https://www.linkedin.com/in/sushant-s-bb784381/
-- Email: sushantiitr16@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
